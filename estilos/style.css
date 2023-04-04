@@ -61,5 +61,10 @@ div#formulario{
 }
 
 div#formulario h1 {
-    margin-bottom: 3px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+div#formulario p {
+    font-size: 0.8em;
 }
