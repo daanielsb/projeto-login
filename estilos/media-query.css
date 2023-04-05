@@ -8,6 +8,7 @@
     
     section#login{
         width: 80vw;
+        height: 300px;
     }  
 
 
@@ -35,6 +36,7 @@
 
     section#login{
     width: 950px;
+    height: 400px;
     }
 
     div#imagem{
@@ -57,6 +59,11 @@
 
     div#formulario p {
         font-size: 1.2em;
+        margin: 20px 0;
+    }
+
+    .botao, form > input[type=submit]{
+        max-width: 500px;
     }
 
 
@@ -64,3 +71,4 @@
 
 
 }
+
